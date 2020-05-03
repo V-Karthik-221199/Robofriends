@@ -1,6 +1,7 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
+
+First Simple React app
+
+steps to run:
 
 1. Clone this repo
 2. Run `npm install`
